@@ -1,2 +1,2 @@
 #!/bin/bash
-less /etc/passwd | sudo nano /etc/hosts
+less /etc/passwd /etc/hosts
